@@ -1,0 +1,4 @@
+API_ID=123456
+API_HASH="YOUR_HASH"
+NAME="Luka | ⏰ {T}"
+
