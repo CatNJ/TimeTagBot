@@ -5,7 +5,7 @@ Bot that automatically adds the current time to your Telegram display name!
 - Install the ZIP archive and unzip it
 
 ![](images/1.png)
-- Install python from [python.org](https://python.org) (Be sure to add to PATH)
+- Install python from [python.org](https://www.python.org/downloads) (Be sure to add to PATH)
 - Go to [my.telegram.org](https://my.telegram.org), enter your phone number and code from Telegram
 
 ![](images/2.png)
