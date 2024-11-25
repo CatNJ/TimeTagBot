@@ -11,7 +11,7 @@ async def main():
     while True:
         local_time = time.localtime()
         time_string = time.strftime("%H:%M", local_time)
-        time.sleep(0.1)
+        time.sleep(2)
 
         if time_string != last_time_string:
             await client(UpdateProfileRequest(first_name=config.NAME.replace('{T}', str(time_string))))
